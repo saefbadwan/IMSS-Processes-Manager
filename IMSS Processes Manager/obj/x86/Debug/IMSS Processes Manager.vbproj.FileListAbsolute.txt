@@ -1,0 +1,30 @@
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager._IMSS_NEW_TASK.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.IMSS_SCAN_OPTIONS.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.IMSS_VaurisTotalScanner.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.exe
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.pdb
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\IMSS Processes Manager.xml
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager._IMSS_NEW_TASK.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.IMSS_SCAN_OPTIONS.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.IMSS_VaurisTotalScanner.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.MainWindow.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS_Processes_Manager.Resources.resources
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.exe
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.xml
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\obj\x86\Debug\IMSS Processes Manager.pdb
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\Cassia.dll
+C:\Users\User\Desktop\IMSS Processes Manager\IMSS Processes Manager\IMSS Processes Manager\bin\Debug\Cassia.xml
